@@ -1,0 +1,22 @@
+{
+  "name": "ananya",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ananya0777/ananya.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ananya0777/ananya/issues"
+  },
+  "homepage": "https://github.com/Ananya0777/ananya#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
